@@ -1,0 +1,84 @@
+{
+  "bookItems": [
+    {
+      "id": 1,
+      "fields": {
+        "title": "The 7 Habits of Highly Effective People",
+        "price": 28.3,
+        "image": {
+          "url": "./images/booksImage1.jpg"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "fields": {
+        "title": "Think and Grow Rich",
+        "price": 18.3,
+        "image": {
+          "url": "./images/booksImage2.jpg"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "fields": {
+        "title": "Atomic Habits",
+        "price": 22.3,
+        "image": {
+          "url": "./images/booksImage3.jpg"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "fields": {
+        "title": "Can't Hurt Me: Master Your Mind and Defy the Odds ",
+        "price": 20.3,
+        "image": {
+          "url": "./images/booksImage4.jpg"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "fields": {
+        "title": "Sherlock Holmes: The Complete Collection",
+        "price": 19.3,
+        "image": {
+          "url": "./images/booksImage5.jpg"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "fields": {
+        "title": "Brain Games - Sherlock Holmes Puzzles",
+        "price": 18.3,
+        "image": {
+          "url": "./images/booksImage6.jpg"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "fields": {
+        "title": "Science Encyclopedia: Atom Smashing, Food Chemistry, Animals, Space, and More",
+        "price": 21.3,
+        "image": {
+          "url": "./images/booksImage7.jpg"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "fields": {
+        "title": "The Everything Kids' Science Experiments Book",
+        "price": 18.3,
+        "image": {
+          "url": "./images/booksImage8.jpg"
+        }
+      }
+    }
+  ]
+}
